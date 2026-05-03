@@ -1,6 +1,5 @@
 CIFAR-10 Image Classification with CNN & Streamlit
 This project features a Convolutional Neural Network (CNN) trained on the CIFAR-10 dataset to classify images into ten distinct categories (e.g., airplanes, cats, dogs, trucks). It includes a Jupyter Notebook for training and a Streamlit web application for real-time image inference.
-
 🚀 Features
 CNN Architecture: Built using TensorFlow/Keras with layers designed for image feature extraction.
 
