@@ -6,7 +6,6 @@ CNN Architecture: Built using TensorFlow/Keras with layers designed for image fe
 Streamlit Web App: A user-friendly interface to upload images and get instant classification results.
 
 Data Augmentation: Techniques used during training to improve model generalization and accuracy.
-
 Modern Serialization: Saves and loads models using the latest .keras format.
 📁 Project Structure
 cnn.ipynb: The main notebook used to load data, preprocess labels, and train the CNN model.
